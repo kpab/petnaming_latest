@@ -1,0 +1,4 @@
+openai==0.27.10
+streamlit==1.26.0
+toml==0.10.2
+Pillow==9.0.0
